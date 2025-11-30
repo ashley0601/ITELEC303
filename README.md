@@ -1,3 +1,16 @@
+# Table of Contents
+
+| Category | Activity| 
+|----------|---------|
+| 🎯 Midterms | 🐧 [Activity 1 - Palmer Penguin](ACTIVITY1.ipynb) 
+| 🎯 Midterms | 🛑 [Activity 2 - UK Accident](ACTIVITY 2.ipynb) | 
+| 🧪 Finals | 🦟 [PROJECT3_PH_DENGUE_ANALYSIS](PROJECT3_DENGUE.ipynb) | 
+| 🧪 Finals | 📈 [PROJECT4_LINEAR_REGRESSION](LinearRegression_Prediction.ipynb) | 
+| 🏠 Finals | 🏡 [PROJECT5_HOUSING_PRICE](ENALLO_HOUSING.ipynb) | 
+| 🤖 Finals | 🚢 [PROJECT6_TITANIC_SURVAVILITY_MachineLearning](TitanicSurvavility_MachineLearning.ipynb) |
+| 🤖 Finals | 🚢 [PROJECT7_POWER_BI_MOVIE](ENALLO_BI.pdf) |
+| 🤖 Assignment| 🚢 [Assignment_SALARY_PREDICTION](Enallo_MariaAshley_SalaryPrediction.ipynb.ipynb) |
+
 # 🐧 Palmer Penguins Data Analytics
 
 A data analytics project using the **Palmer Penguins** dataset to explore and visualize penguin species data collected from Antarctica. This project demonstrates data cleaning, exploratory data analysis (EDA), and predictive modeling using Python.
@@ -33,19 +46,6 @@ The **Palmer Penguins** dataset contains size measurements, species information,
 - matplotlib
 - seaborn
 - Jupyter Notebook
-
-# Table of Contents
-
-| Category | Activity| 
-|----------|---------|
-| 🎯 Midterms | 🐧 [Activity 1 - Palmer Penguin](ACTIVITY1.ipynb) 
-| 🎯 Midterms | 🛑 [Activity 2 - UK Accident](ACTIVITY 2.ipynb) | 
-| 🧪 Finals | 🦟 [PROJECT3_PH_DENGUE_ANALYSIS](PROJECT3_DENGUE.ipynb) | 
-| 🧪 Finals | 📈 [PROJECT4_LINEAR_REGRESSION](LinearRegression_Prediction.ipynb) | 
-| 🏠 Finals | 🏡 [PROJECT5_HOUSING_PRICE](ENALLO_HOUSING.ipynb) | 
-| 🤖 Finals | 🚢 [PROJECT6_TITANIC_SURVAVILITY_MachineLearning](TitanicSurvavility_MachineLearning.ipynb) |
-| 🤖 Finals | 🚢 [PROJECT7_POWER_BI_MOVIE](ENALLO_BI.pdf) |
-| 🤖 Assignment| 🚢 [Assignment_SALARY_PREDICTION](Enallo_MariaAshley_SalaryPrediction.ipynb.ipynb) |
 
 
 ---
