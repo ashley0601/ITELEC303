@@ -10,7 +10,7 @@
 | 🤖 Finals | 🚢 [PROJECT6_TITANIC_SURVAVILITY_MachineLearning](Finals/TitanicSurvavility_MachineLearning.ipynb) |
 | 🤖 Finals | 🚢 [PROJECT7_POWER_BI_MOVIE](Finals/ENALLO_BI.pdf) |
 | 🤖 Assignment| 🚢 [Assignment_SALARY_PREDICTION](Assignment/Enallo_MariaAshley_SalaryPrediction.ipynb.ipynb) |
-| 🤖 Finals_Project| 🚢 [Family Income and Expenditure]([Finals_Project]) |
+| 🤖 Finals_Project| 🚢 [Family Income and Expenditure](Finals_Project) |
 
 # 🐧 Palmer Penguins Data Analytics
 
