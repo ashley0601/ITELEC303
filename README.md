@@ -2,15 +2,15 @@
 
 | Category | Activity| 
 |----------|---------|
-| 🎯 Midterms | 🐧 [Activity 1 - Palmer Penguin](ACTIVITY1.ipynb) 
-| 🎯 Midterms | 🛑 [Activity 2 - UK Accident](ACTIVITY 2.ipynb) | 
-| 🧪 Finals | 🦟 [PROJECT3_PH_DENGUE_ANALYSIS](PROJECT3_DENGUE.ipynb) | 
-| 🧪 Finals | 📈 [PROJECT4_LINEAR_REGRESSION](LinearRegression_Prediction.ipynb) | 
-| 🏠 Finals | 🏡 [PROJECT5_HOUSING_PRICE](ENALLO_HOUSING.ipynb) | 
-| 🤖 Finals | 🚢 [PROJECT6_TITANIC_SURVAVILITY_MachineLearning](TitanicSurvavility_MachineLearning.ipynb) |
-| 🤖 Finals | 🚢 [PROJECT7_POWER_BI_MOVIE](ENALLO_BI.pdf) |
-| 🤖 Assignment| 🚢 [Assignment_SALARY_PREDICTION](Enallo_MariaAshley_SalaryPrediction.ipynb.ipynb) |
-| 🤖 Finals_Project| 🚢 [Family Income and Expenditure]([Enallo_MariaAshley_SalaryPrediction.ipynb.ipynb](https://github.com/ashley0601/Finals_Analytics.git)) |
+| 🎯 Midterms | 🐧 [Activity 1 - Palmer Penguin](Midterm/ACTIVITY1.ipynb) 
+| 🎯 Midterms | 🛑 [Activity 2 - UK Accident](Midterm/ACTIVITY 2.ipynb) | 
+| 🧪 Finals | 🦟 [PROJECT3_PH_DENGUE_ANALYSIS](Finals/PROJECT3_DENGUE.ipynb) | 
+| 🧪 Finals | 📈 [PROJECT4_LINEAR_REGRESSION](Finals/LinearRegression_Prediction.ipynb) | 
+| 🏠 Finals | 🏡 [PROJECT5_HOUSING_PRICE](Finals/ENALLO_HOUSING.ipynb) | 
+| 🤖 Finals | 🚢 [PROJECT6_TITANIC_SURVAVILITY_MachineLearning](Finals/TitanicSurvavility_MachineLearning.ipynb) |
+| 🤖 Finals | 🚢 [PROJECT7_POWER_BI_MOVIE](Finals/ENALLO_BI.pdf) |
+| 🤖 Assignment| 🚢 [Assignment_SALARY_PREDICTION](Assignment/Enallo_MariaAshley_SalaryPrediction.ipynb.ipynb) |
+| 🤖 Finals_Project| 🚢 [Family Income and Expenditure]([Finals_Project]) |
 
 # 🐧 Palmer Penguins Data Analytics
 
